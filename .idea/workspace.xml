@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c639793-b47a-4d97-8588-e326dbc49da8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/BookItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/Books.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YuRVCLzmjxPKFh8GnyRhgvZNB4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jim.kats.bookstore" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="My Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jim.kats.bookstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="jim.kats.bookstore.BookstoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c639793-b47a-4d97-8588-e326dbc49da8" name="Default Changelist" comment="" />
+      <created>1583790513593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583790513593</updated>
+      <workItem from="1583790519785" duration="14429000" />
+      <workItem from="1583806119863" duration="3100000" />
+      <workItem from="1583837719012" duration="36000" />
+      <workItem from="1583838148789" duration="962000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1583793336857">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1583793336857" />
+    <state x="618" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583790831414">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="618" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1583790831414" />
+    <state x="549" y="188" key="FileChooserDialogImpl" timestamp="1583837894608">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583837894608" />
+    <state width="1493" height="93" key="GridCell.Tab.0.bottom" timestamp="1583838990558">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583838990558" />
+    <state width="1493" height="93" key="GridCell.Tab.0.center" timestamp="1583838990557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583838990557" />
+    <state width="1493" height="93" key="GridCell.Tab.0.left" timestamp="1583838990557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583838990557" />
+    <state width="1493" height="93" key="GridCell.Tab.0.right" timestamp="1583838990558">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583838990558" />
+    <state width="1493" height="93" key="GridCell.Tab.1.bottom" timestamp="1583838990560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583838990560" />
+    <state width="1493" height="93" key="GridCell.Tab.1.center" timestamp="1583838990559">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1583838990559" />
+    <state width="1493" height="93" key="GridCell.Tab.1.left" timestamp="1583838990558">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1583838990558" />
+    <state width="1493" height="93" key="GridCell.Tab.1.right" timestamp="1583838990559">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="93" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1583838990559" />
+    <state x="277" y="76" key="SettingsEditor" timestamp="1583838322318">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583838322318" />
+  </component>
+</project>
