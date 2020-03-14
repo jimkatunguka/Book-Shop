@@ -13,7 +13,10 @@ class App extends Component{
   }
 
   componentDidMount(){
-    axios.get('http://localhost:8080/book/')
+     let headers = {
+         'Content-Type':'application/json'
+     }
+    axios.get('http://localhost:8080/books',{headers:headers})
         .then(res => this.setState({books:res.data}));
   }
 

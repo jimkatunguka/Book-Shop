@@ -7,16 +7,19 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+
+
 @RestController
-@RequestMapping("book")
+@RequestMapping("/")
 public class BookController {
 
     @Autowired
     private BookService bookService;
 
     //test
-    @RequestMapping("/")
-    @CrossOrigin(origins = "http://localhost:3000")
+
+
+    @RequestMapping("/books")
     public List<Book> getAll(){
         return bookService.getAll();
     }
