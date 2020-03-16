@@ -4,7 +4,6 @@
     <list default="true" id="6c639793-b47a-4d97-8588-e326dbc49da8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/BookItem.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/components/Books.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reactjs/src/App.js" afterDir="false" />
@@ -96,7 +95,7 @@
       <workItem from="1583806119863" duration="3100000" />
       <workItem from="1583837719012" duration="36000" />
       <workItem from="1583838148789" duration="10399000" />
-      <workItem from="1584239694930" duration="8863000" />
+      <workItem from="1584239694930" duration="9109000" />
     </task>
     <servers />
   </component>
