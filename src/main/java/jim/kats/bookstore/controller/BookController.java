@@ -17,8 +17,6 @@ public class BookController {
     private BookService bookService;
 
     //test
-
-
     @RequestMapping("/books")
     public List<Book> getAll(){
         return bookService.getAll();
